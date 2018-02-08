@@ -1,6 +1,6 @@
 #Coding: UTF8
 
-x=input("Introduzca un numero: ")
+x=input("Escriba la cantidad de numeros positivos a solicitar: ")
 i=0
 j=0
 
