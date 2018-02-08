@@ -1,7 +1,6 @@
 #Coding: UTF8
 
 x=float(input("Escriba el valor limite: "))
-i=0
 suma=0
 
 while (x<=0):
